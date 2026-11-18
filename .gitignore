@@ -1,0 +1,10 @@
+# runtime / machine-local artifacts (regenerated automatically)
+.venv/
+__pycache__/
+*.pyc
+*.bak
+wechatauto_logs/
+
+# generated per-machine / per-user state
+.agents/mcp.json
+wechat_reader_mcp/config.json
